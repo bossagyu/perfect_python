@@ -6,6 +6,6 @@
 # 一章
 
 * PEP8 (Style Guide for Oython Code)
-** コーディング規約を定めている。
+*  コーディング規約を定めている。
 
 
