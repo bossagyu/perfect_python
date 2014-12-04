@@ -16,3 +16,8 @@ print x[1:]
 for item in x:
     print(item)
 
+# リストの追加
+x.append("aaaa")
+
+for item in x:
+    print(item)
