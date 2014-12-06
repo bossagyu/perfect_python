@@ -21,3 +21,15 @@ x.append("aaaa")
 
 for item in x:
     print(item)
+
+# リストの更新
+x[1] = "hoge"
+
+print x[1:2]
+
+# リストを逆順にする
+x.reverse()
+
+
+for item in x:
+    print(item)
