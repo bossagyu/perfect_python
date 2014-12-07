@@ -33,3 +33,7 @@ x.reverse()
 
 for item in x:
     print(item)
+
+
+print "test"
+print x
