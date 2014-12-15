@@ -7,4 +7,16 @@ d = {
     'key4' : 'val4'
 }
 
+
+# インデックスアクセス
 print d['key1']
+
+flag = 'key1' in d
+print "%d" % flag
+
+# インデクスがない場合はnoneが返る
+print d.get('key4')
+print d.get('key10')
+
+
+
