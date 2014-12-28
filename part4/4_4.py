@@ -11,3 +11,10 @@ for i in range(3):
    print(i)
 else:
    print("done")
+
+for i in range(1,4):
+    print(i)
+    if i == 2:
+       break
+    else:
+        print ('loop finished')
