@@ -7,4 +7,7 @@ while not done:
     elif echo_text == 'done':
         done = True
     else:
-        print(echo_text) 
+        print(echo_text)
+
+for i in range(10):
+    print i
