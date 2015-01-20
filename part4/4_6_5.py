@@ -6,3 +6,4 @@ raise ValueError('理由やメッセージ')
 
 
 
+
