@@ -3,7 +3,8 @@
 result = [x**2 for x in range(1,11)]
 print result
 
-result = [x**2 for x in range(1,11) if x%2 == 0]
+mozi = "aaaaaaaaaaaaaa";
+result = mozi[for x in range(1,11) if x%2 == 0]
 print result
 
 # セット内包表記
